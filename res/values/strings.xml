@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ChangingListActivity!</string>
+    <string name="app_name">ChangingList</string>
+    <string name="list_de_1">das</string>
+    <string name="list_de_2">ist</string>
+    <string name="list_de_3">ein</string>
+    <string name="list_de_4">test</string>
+    <string name="list_en_1">this</string>
+    <string name="list_en_2">is</string>
+    <string name="list_en_3">a</string>
+    <string name="list_en_4">test</string>
+
+</resources>

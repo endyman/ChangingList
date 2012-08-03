@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_de_titles">
+        <item>@string/list_de_1</item>
+        <item>@string/list_de_2</item>
+        <item>@string/list_de_3</item>
+        <item>@string/list_de_4</item>
+        <item>@string/list_de_1</item>
+        <item>@string/list_de_2</item>
+        <item>@string/list_de_3</item>
+        <item>@string/list_de_4</item>
+    </string-array>
+    <string-array name="list_en_titles">
+        <item>@string/list_en_1</item>
+        <item>@string/list_en_2</item>
+        <item>@string/list_en_3</item>
+        <item>@string/list_en_4</item>
+        <item>@string/list_en_1</item>
+        <item>@string/list_en_2</item>
+        <item>@string/list_en_3</item>
+        <item>@string/list_en_4</item>
+    </string-array>
+    <string-array name="list_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </string-array>
+
+</resources>
